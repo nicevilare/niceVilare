@@ -1,6 +1,6 @@
 ### Hi there, this is my gitHub repository 
 
-- 🔭 I’m currently working on Avanade
+- 🔭 I’m currently working at Avanade
 - 🌱 I’m currently learning technologies for front and backend development
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eunice-vilar-07384842/)
